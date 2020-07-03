@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bromine.Core", "Bromine.Core\Bromine.Core.csproj", "{5511159C-297D-4267-B1A0-42C10F6383E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bromine.SeleniumCore", "Bromine.SeleniumCore\Bromine.SeleniumCore.csproj", "{EC7DDADA-8E4C-4EF7-AD53-C1EC1EBCD658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bromine.TelerikCore", "Bromine.TelerikCore\Bromine.TelerikCore.csproj", "{0B6C11B7-9247-46B3-84DD-1FB5E203996C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bromine.Tests", "Bromine.Tests\Bromine.Tests.csproj", "{655433B2-6DB8-41B5-B954-55D2FB5169DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5511159C-297D-4267-B1A0-42C10F6383E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5511159C-297D-4267-B1A0-42C10F6383E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5511159C-297D-4267-B1A0-42C10F6383E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5511159C-297D-4267-B1A0-42C10F6383E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7DDADA-8E4C-4EF7-AD53-C1EC1EBCD658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7DDADA-8E4C-4EF7-AD53-C1EC1EBCD658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7DDADA-8E4C-4EF7-AD53-C1EC1EBCD658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7DDADA-8E4C-4EF7-AD53-C1EC1EBCD658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6C11B7-9247-46B3-84DD-1FB5E203996C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6C11B7-9247-46B3-84DD-1FB5E203996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6C11B7-9247-46B3-84DD-1FB5E203996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6C11B7-9247-46B3-84DD-1FB5E203996C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655433B2-6DB8-41B5-B954-55D2FB5169DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655433B2-6DB8-41B5-B954-55D2FB5169DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655433B2-6DB8-41B5-B954-55D2FB5169DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655433B2-6DB8-41B5-B954-55D2FB5169DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
